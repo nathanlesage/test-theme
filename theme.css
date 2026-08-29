@@ -1,0 +1,9 @@
+/* This file doesn't do much as it is merely a test repository.
+  It does, however, make a marked (and likely ugly) change to the
+  editor CSS, which allows us to easily test that this theme
+  actually gets applied.
+*/
+
+#toolbar {
+    background-color: red !important;
+}
